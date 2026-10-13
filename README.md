@@ -27,6 +27,18 @@ The report has **4 pages**, accessible from the navigation menu on the left.
 
 ---
 
+
+
+## 🛠️ Tools & Technologies
+
+- **Microsoft Power BI Desktop**
+- **DAX** for measures (TY/LY sales, variance %, average unit price, sales per sq ft, etc.)
+- **Power Query** for data import and transformation
+- **Star schema modeling** (fact and dimension tables: store, district, item/category, buyer, time)
+- Power BI features: slicers, bookmarks, What-If parameters, tooltips, page navigation
+
+---
+
 ## 📊 Screenshots
 
 ### Overview
@@ -41,16 +53,5 @@ The report has **4 pages**, accessible from the navigation menu on the left.
 ### Store Analysis
 ![Store Analysis](View4.JPG)
 
----
 
-
-## 🛠️ Tools & Technologies
-
-- **Microsoft Power BI Desktop**
-- **DAX** for measures (TY/LY sales, variance %, average unit price, sales per sq ft, etc.)
-- **Power Query** for data import and transformation
-- **Star schema modeling** (fact and dimension tables: store, district, item/category, buyer, time)
-- Power BI features: slicers, bookmarks, What-If parameters, tooltips, page navigation
-
----
 
