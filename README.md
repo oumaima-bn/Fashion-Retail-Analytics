@@ -1,6 +1,6 @@
 # 🛍️ Retail Analysis – Power BI Dashboard
 
-An interactive **Power BI** dashboard analyzing the sales performance of a group of fashion and apparel stores (the **Fashions Direct** and **Lindseys** chains). It tracks sales, units sold, gross margin, and the performance of stores, districts, and buyers.
+An interactive **Power BI** dashboard analyzing the sales performance of a group of fashion stores. It tracks sales, units sold, gross margin, and the performance of stores, districts, and buyers.
 
 ---
 
@@ -43,16 +43,6 @@ The report has **4 pages**, accessible from the navigation menu on the left.
 
 ---
 
-## 🔑 Key Metrics
-
-| Metric | Value |
-|---|---|
-| Total Sales | $45.18M |
-| Total Units | 8.48M |
-| Gross Margin | $18.97M |
-| Men / Shoes / Juniors Sales | $8.91M / $7.22M / $6.04M |
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -64,44 +54,3 @@ The report has **4 pages**, accessible from the navigation menu on the left.
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── LICENSE
-├── README.md
-├── Retail Analysis.pbix     # Power BI report
-├── View1.JPG                # Overview page
-├── View2.JPG                # District Analysis page
-├── View3.JPG                # Item Analysis page
-└── View4.JPG                # Store Analysis page
-```
-
----
-
-## 🚀 Getting Started
-
-1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-   ```
-2. Open **Retail Analysis.pbix** with **Power BI Desktop** (Windows).
-3. If needed, update the data source: *Home → Transform data → Data source settings*.
-4. Navigate between pages using the left-hand menu and use the filters to explore the data.
-
----
-
-## 💡 Key Insights
-
-- **Fashions Direct (FD)** districts generate significantly more sales than **Lindseys (LI)** districts.
-- Sales fluctuate strongly across fiscal months, with a notable peak in March compared to last year.
-- **Men**, **Shoes**, and **Juniors** are the top-contributing categories.
-- A handful of buyers account for a large share of sales and gross margin.
-
----
-
-
----
-
-## 📄 License
-
-This project is licensed under the terms of the [LICENSE](LICENSE) file included in this repository.
