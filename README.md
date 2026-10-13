@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard analyzing the sales performance of a group of fashion stores. It tracks sales, units sold, gross margin, and the performance of stores, districts, and buyers.
 
----
+
 
 ## 📌 Project Goals
 
